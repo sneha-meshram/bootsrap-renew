@@ -10,7 +10,7 @@ The review is 5 star from last 5 years.
 
 Many fashion shows are held by Beautifulme.
 
-The link of my prject is https://sneha-meshram.github.io/html-bootstrap-assignmnt1/.
+The link of my prject is https://sneha-meshram.github.io/bootsrap-renew/.
 
 the project is done by sneha meshram.
 
