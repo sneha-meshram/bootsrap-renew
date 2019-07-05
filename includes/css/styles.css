@@ -1,0 +1,112 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -#------------------------------------- */
+   #featuresHeading{
+       margin: 2px;
+   }
+
+
+   #features img{
+       margin-top: 20px;
+   }
+
+#features{
+    text-align: center;
+}
+#bigCallout{
+    margin:60px;
+}
+#inputMessage{
+    margin-bottom:15px;
+}
+
+
+#wrapup{
+    margin-top: 30px;
+    background-color: grey;
+
+}
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   #searchInput
+   {
+       width:200px;
+   }
+   .navbar-brand
+   {
+       padding:13px 15px;
+   }
+   .alert{
+       margin-top:20px;
+       display:none;
+   }
+   .tabbable img.thumbnail{
+       margin:0 20px 10px 0;
+
+   }
+   .well{
+       margin:20px 0;
+   }
+
+
+
+.column1{
+    height: 500vh;
+
+
+}
+
+.footer{
+    margin-top: 2%;
+    background: grey;
+
+}
+.footer h1 a{
+    text-decoration:none;
+    color:white;
+}
+
+.socialIcons{
+    color:white;
+    font-size:30px;
+
+}
+.detail table img{
+    height: 450px;
+    width: 100%;
+}
+
+#jumbid
+{
+    background-color: plum;
+    margin-top: 20px;
+}
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    background-color:palevioletred;
+    font-family: 'Aleo';font-size: 22px;
+}
